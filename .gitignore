@@ -17,3 +17,6 @@ debug/
 *.swn
 *.sw?
 
+*.pdf
+main
+
